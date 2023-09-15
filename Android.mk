@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),Infinix-X6827)
+ifeq ($(TARGET_DEVICE),x6827)
 
 endif
